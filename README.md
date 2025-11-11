@@ -1,4 +1,4 @@
-# Industrial Biogas Plant Automation & Safety System
+# Industrial Biogas Plant Automation and Safety Control System
 
 A robust, microcontroller-free automation and safety control system designed for harsh industrial environments, implementing complete biogas production cycle management with fail-safe protocols.
 
