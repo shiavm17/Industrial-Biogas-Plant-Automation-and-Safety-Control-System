@@ -74,3 +74,10 @@ This project demonstrates how complex industrial automation can be achieved with
 - Industrial Control Wiring
 
 ## 📁 Project Structure
+- phase 1
+- phase 2
+- phase 3
+
+## 🛠️ Contact me 
+- Email: shivamchaturvedi.in@gmail.com . 23ev3025@rgipt.ac.in
+
